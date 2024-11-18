@@ -1,0 +1,20 @@
+<configuration>
+	<input>
+		<net-file value="simp_plymouth.net.xml" />
+		<route-files value="simp_plymouth.rou.xml" />
+	</input>
+
+	<gui_only>
+        <tracker-interval value="1"/>
+    </gui_only>
+
+    <time>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <lateral-resolution value="1"/>
+    </processing>
+
+
+</configuration>
