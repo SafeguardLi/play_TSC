@@ -3,8 +3,8 @@ import traci
 # Define the phases
 PHASE_INDICES = {
     0: 'rrrrrGGGgrrrGGGg',  # Phase 0 (Main Street Green)
-    1: 'GGGGGrrrrrrrrrrr',  # Phase 1 (Side Street Green)
-    2: 'rrrrrrrrrGGGrrrr',  # Phase 2 (Left Turn Green)
+    1: 'GGGGGrrrrrrrrrrr',  # Phase 1 (Side Street_1 Green)
+    2: 'rrrrrrrrrGGGrrrr',  # Phase 2 (Side Street_2 Green)
     3: 'rrrrrrrrrrrrrrrr',  # All Red
 }
 
